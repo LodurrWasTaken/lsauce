@@ -1,0 +1,2 @@
+# lsauce
+Sauce for localStorage
